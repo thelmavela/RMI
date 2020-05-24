@@ -19,7 +19,7 @@ import javax.swing.table.DefaultTableModel;
 
 /**
  *
- * @author al_re
+ * 
  */
 public class Tabla extends javax.swing.JFrame {
 

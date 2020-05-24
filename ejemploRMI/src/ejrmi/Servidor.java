@@ -7,7 +7,7 @@ package ejrmi;
 
 /**
  *
- * @author Eduardo Manzanilla
+ * 
  */
 import java.rmi.registry.Registry;
 import javax.swing.JOptionPane;

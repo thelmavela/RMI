@@ -16,7 +16,7 @@ import java.util.List;
 
 /**
  *
- * @author al_re
+ * 
  */
 public class ControlIMC extends javax.swing.JFrame {
     

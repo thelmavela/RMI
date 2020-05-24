@@ -21,7 +21,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author Eduardo Manzanilla
+ 
  */
 public class Registro extends javax.swing.JFrame {
 

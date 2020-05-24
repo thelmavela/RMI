@@ -7,7 +7,7 @@ package ejrmi;
 
 /**
  *
- * @author Eduardo Manzanilla
+ * 
  */
 import java.rmi.server.UnicastRemoteObject;
 import java.rmi.RemoteException;

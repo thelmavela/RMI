@@ -8,7 +8,7 @@ package ejrmi;
 
 /**
  *
- * @author Eduardo Manzanilla
+ * 
  */
 import java.rmi.Remote;
 import java.rmi.RemoteException;
